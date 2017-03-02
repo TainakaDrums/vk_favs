@@ -7,3 +7,7 @@
 2. Allow acsess
 3. Сopy access_token value
 4. Paste it to TOKEN variable
+
+
+#####On Windows all content downloaded to %USERPROFILE%\vk_favs.
+#####On Linux or Mac all content downloaded to $HOME\vk_favs.

@@ -1,5 +1,5 @@
 # vk_favs
-####Get all favorite photos from vk.com
+####Get all favorite pictures from vk.com
 
 
 1. Click [here](https://oauth.vk.com/authorize?client_id=5385901&redirect_uri=https://oauth.vk.com/blank.html&scope=offline,friends&response_type=token&v=5.62

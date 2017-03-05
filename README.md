@@ -9,5 +9,5 @@
 4. Paste it to TOKEN variable
 
 
-#####On Windows all content downloaded to %USERPROFILE%\vk_favs.
-#####On Linux or Mac all content downloaded to $HOME\vk_favs.
+#####On Windows all content will download to %USERPROFILE%\vk_favs.
+#####On Linux or Mac all content will download to $HOME\vk_favs.
